@@ -1,3 +1,4 @@
+#THIS IS MEANT FOR BLUECUBE MEMBERS
 # Rules
   - Forks are to be created, instead of pushing code regularly.
   - 
